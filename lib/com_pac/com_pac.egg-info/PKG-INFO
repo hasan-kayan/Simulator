@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: com_pac
+Version: 0.1.0
+Summary: A configurable communication library for TCP, UDP, UART, and Ethernet.
+Author-email: Your Name <your.email@example.com>
+License-File: LICENSE
+Requires-Dist: pyserial
